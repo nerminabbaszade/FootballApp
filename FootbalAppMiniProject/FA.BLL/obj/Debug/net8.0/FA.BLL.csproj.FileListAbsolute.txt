@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\bin\Debug\net8.0\FA.BLL.deps.json
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\bin\Debug\net8.0\FA.BLL.dll
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\bin\Debug\net8.0\FA.BLL.pdb
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\obj\Debug\net8.0\FA.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\obj\Debug\net8.0\FA.BLL.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\obj\Debug\net8.0\FA.BLL.AssemblyInfo.cs
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\obj\Debug\net8.0\FA.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\obj\Debug\net8.0\FA.BLL.sourcelink.json
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\obj\Debug\net8.0\FA.BLL.dll
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\obj\Debug\net8.0\refint\FA.BLL.dll
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\obj\Debug\net8.0\FA.BLL.pdb
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\obj\Debug\net8.0\ref\FA.BLL.dll
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\bin\Debug\net8.0\FA.DAL.dll
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\bin\Debug\net8.0\FA.DAL.pdb
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\obj\Debug\net8.0\FA.BLL.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\code_academy_projects\Week11Day1\FootbalAppMiniProject\FA.BLL\obj\Debug\net8.0\FA.BLL.csproj.Up2Date
