@@ -1,46 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\",
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|c:\\users\\asus\\desktop\\code_academy_projects\\week11day1\\footbalappminiproject\\fa.ui\\management\\menumanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|solutionrelative:fa.ui\\management\\menumanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Repositories\\GenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.DAL\\Repositories\\GenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|c:\\users\\asus\\desktop\\code_academy_projects\\week11day1\\footbalappminiproject\\fa.ui\\management\\mostleastgoalmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|solutionrelative:fa.ui\\management\\mostleastgoalmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\AdminPanelManagement\\PlayerManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.UI\\Management\\AdminPanelManagement\\PlayerManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|c:\\users\\asus\\desktop\\code_academy_projects\\week11day1\\footbalappminiproject\\fa.ui\\management\\mostscoredplayermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|solutionrelative:fa.ui\\management\\mostscoredplayermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\AdminPanelManagement\\GameManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.UI\\Management\\AdminPanelManagement\\GameManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|c:\\users\\asus\\desktop\\code_academy_projects\\week11day1\\footbalappminiproject\\fa.ui\\management\\pointstablemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|solutionrelative:fa.ui\\management\\pointstablemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Model\\Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.DAL\\Model\\Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|c:\\users\\asus\\desktop\\code_academy_projects\\week11day1\\footbalappminiproject\\fa.ui\\management\\teamdatamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|solutionrelative:fa.ui\\management\\teamdatamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Model\\Team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.DAL\\Model\\Team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|c:\\users\\asus\\desktop\\code_academy_projects\\week11day1\\footbalappminiproject\\fa.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|solutionrelative:fa.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\CompletedGameManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.UI\\Management\\CompletedGameManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|c:\\users\\asus\\desktop\\code_academy_projects\\week11day1\\footbalappminiproject\\fa.ui\\management\\adminpanelmanagement\\gamemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|solutionrelative:fa.ui\\management\\adminpanelmanagement\\gamemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.BLL\\Services\\Interfaces\\IGenericService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.BLL\\Services\\Interfaces\\IGenericService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|c:\\users\\asus\\desktop\\code_academy_projects\\week11day1\\footbalappminiproject\\fa.ui\\management\\adminpanelmanagement\\playermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|solutionrelative:fa.ui\\management\\adminpanelmanagement\\playermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Repositories\\Interfaces\\IGenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.DAL\\Repositories\\Interfaces\\IGenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|c:\\users\\asus\\desktop\\code_academy_projects\\week11day1\\footbalappminiproject\\fa.ui\\management\\adminpanelmanagement\\teammanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|solutionrelative:fa.ui\\management\\adminpanelmanagement\\teammanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Model\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.DAL\\Model\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|c:\\users\\asus\\desktop\\code_academy_projects\\week11day1\\footbalappminiproject\\fa.ui\\management\\completedgamemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA75215-18E6-4A65-A0C4-4C9652D1EE5C}|FA.UI\\FA.UI.csproj|solutionrelative:fa.ui\\management\\completedgamemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Data\\FADbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.DAL\\Data\\FADbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Configurations\\TeamConf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.DAL\\Configurations\\TeamConf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Configurations\\PlayerConf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.DAL\\Configurations\\PlayerConf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\MostScoredPlayerManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.UI\\Management\\MostScoredPlayerManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\MostLeastGoalManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.UI\\Management\\MostLeastGoalManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\MenuManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.UI\\Management\\MenuManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\PointsTableManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.UI\\Management\\PointsTableManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\AdminPanelManagement\\TeamManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.UI\\Management\\AdminPanelManagement\\TeamManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\TeamDataManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FA.UI\\Management\\TeamDataManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,133 +90,234 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MostLeastGoalManagement.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\MostLeastGoalManagement.cs",
-              "RelativeDocumentMoniker": "FA.UI\\Management\\MostLeastGoalManagement.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\MostLeastGoalManagement.cs",
-              "RelativeToolTip": "FA.UI\\Management\\MostLeastGoalManagement.cs",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Program.cs",
+              "RelativeDocumentMoniker": "FA.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Program.cs",
+              "RelativeToolTip": "FA.UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:17:35.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MostScoredPlayerManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\MostScoredPlayerManagement.cs",
+              "RelativeDocumentMoniker": "FA.UI\\Management\\MostScoredPlayerManagement.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\MostScoredPlayerManagement.cs",
+              "RelativeToolTip": "FA.UI\\Management\\MostScoredPlayerManagement.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T01:13:17.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T01:13:21.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PointsTableManagement.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\PointsTableManagement.cs",
-              "RelativeDocumentMoniker": "FA.UI\\Management\\PointsTableManagement.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\PointsTableManagement.cs",
-              "RelativeToolTip": "FA.UI\\Management\\PointsTableManagement.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABeAAAA",
+              "DocumentIndex": 5,
+              "Title": "CompletedGameManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\CompletedGameManagement.cs",
+              "RelativeDocumentMoniker": "FA.UI\\Management\\CompletedGameManagement.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\CompletedGameManagement.cs",
+              "RelativeToolTip": "FA.UI\\Management\\CompletedGameManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T01:10:31.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T01:04:40.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "GameManagement.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\AdminPanelManagement\\GameManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\AdminPanelManagement\\GameManagement.cs",
               "RelativeDocumentMoniker": "FA.UI\\Management\\AdminPanelManagement\\GameManagement.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\AdminPanelManagement\\GameManagement.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\AdminPanelManagement\\GameManagement.cs",
               "RelativeToolTip": "FA.UI\\Management\\AdminPanelManagement\\GameManagement.cs",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAYwCAAAAAkAAAA",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAswGgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T01:04:54.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Program.cs",
-              "RelativeDocumentMoniker": "FA.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Program.cs",
-              "RelativeToolTip": "FA.UI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T00:17:35.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MostScoredPlayerManagement.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\MostScoredPlayerManagement.cs",
-              "RelativeDocumentMoniker": "FA.UI\\Management\\MostScoredPlayerManagement.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\MostScoredPlayerManagement.cs",
-              "RelativeToolTip": "FA.UI\\Management\\MostScoredPlayerManagement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T01:13:21.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MenuManagement.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\MenuManagement.cs",
-              "RelativeDocumentMoniker": "FA.UI\\Management\\MenuManagement.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\MenuManagement.cs",
-              "RelativeToolTip": "FA.UI\\Management\\MenuManagement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T00:18:50.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TeamManagement.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\AdminPanelManagement\\TeamManagement.cs",
-              "RelativeDocumentMoniker": "FA.UI\\Management\\AdminPanelManagement\\TeamManagement.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\AdminPanelManagement\\TeamManagement.cs",
-              "RelativeToolTip": "FA.UI\\Management\\AdminPanelManagement\\TeamManagement.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAgwD0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T01:10:10.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TeamDataManagement.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\TeamDataManagement.cs",
-              "RelativeDocumentMoniker": "FA.UI\\Management\\TeamDataManagement.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\TeamDataManagement.cs",
-              "RelativeToolTip": "FA.UI\\Management\\TeamDataManagement.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T01:15:33.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "PlayerManagement.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\AdminPanelManagement\\PlayerManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\AdminPanelManagement\\PlayerManagement.cs",
               "RelativeDocumentMoniker": "FA.UI\\Management\\AdminPanelManagement\\PlayerManagement.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\AdminPanelManagement\\PlayerManagement.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\AdminPanelManagement\\PlayerManagement.cs",
               "RelativeToolTip": "FA.UI\\Management\\AdminPanelManagement\\PlayerManagement.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAowFMAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T01:07:03.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CompletedGameManagement.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\CompletedGameManagement.cs",
-              "RelativeDocumentMoniker": "FA.UI\\Management\\CompletedGameManagement.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week11Day1\\FootbalAppMiniProject\\FA.UI\\Management\\CompletedGameManagement.cs",
-              "RelativeToolTip": "FA.UI\\Management\\CompletedGameManagement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "FA.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "FA.DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T01:04:40.242Z",
+              "WhenOpened": "2024-05-25T13:08:39.106Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Model\\Player.cs",
+              "RelativeDocumentMoniker": "FA.DAL\\Model\\Player.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Model\\Player.cs",
+              "RelativeToolTip": "FA.DAL\\Model\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:11:07.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Model\\Team.cs",
+              "RelativeDocumentMoniker": "FA.DAL\\Model\\Team.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Model\\Team.cs",
+              "RelativeToolTip": "FA.DAL\\Model\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:15:12.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerConf.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Configurations\\PlayerConf.cs",
+              "RelativeDocumentMoniker": "FA.DAL\\Configurations\\PlayerConf.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Configurations\\PlayerConf.cs",
+              "RelativeToolTip": "FA.DAL\\Configurations\\PlayerConf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:07:24.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeamConf.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Configurations\\TeamConf.cs",
+              "RelativeDocumentMoniker": "FA.DAL\\Configurations\\TeamConf.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Configurations\\TeamConf.cs",
+              "RelativeToolTip": "FA.DAL\\Configurations\\TeamConf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:07:30.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.BLL\\Services\\Interfaces\\IGenericService.cs",
+              "RelativeDocumentMoniker": "FA.BLL\\Services\\Interfaces\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.BLL\\Services\\Interfaces\\IGenericService.cs",
+              "RelativeToolTip": "FA.BLL\\Services\\Interfaces\\IGenericService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:08:50.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Model\\Game.cs",
+              "RelativeDocumentMoniker": "FA.DAL\\Model\\Game.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Model\\Game.cs",
+              "RelativeToolTip": "FA.DAL\\Model\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:15:13.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FADbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Data\\FADbContext.cs",
+              "RelativeDocumentMoniker": "FA.DAL\\Data\\FADbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Data\\FADbContext.cs",
+              "RelativeToolTip": "FA.DAL\\Data\\FADbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:07:33.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "FA.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "FA.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:08:37.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\MenuManagement.cs",
+              "RelativeDocumentMoniker": "FA.UI\\Management\\MenuManagement.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\MenuManagement.cs",
+              "RelativeToolTip": "FA.UI\\Management\\MenuManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:18:50.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MostLeastGoalManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\MostLeastGoalManagement.cs",
+              "RelativeDocumentMoniker": "FA.UI\\Management\\MostLeastGoalManagement.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\MostLeastGoalManagement.cs",
+              "RelativeToolTip": "FA.UI\\Management\\MostLeastGoalManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:13:17.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PointsTableManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\PointsTableManagement.cs",
+              "RelativeDocumentMoniker": "FA.UI\\Management\\PointsTableManagement.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\PointsTableManagement.cs",
+              "RelativeToolTip": "FA.UI\\Management\\PointsTableManagement.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:10:31.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeamManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\AdminPanelManagement\\TeamManagement.cs",
+              "RelativeDocumentMoniker": "FA.UI\\Management\\AdminPanelManagement\\TeamManagement.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\AdminPanelManagement\\TeamManagement.cs",
+              "RelativeToolTip": "FA.UI\\Management\\AdminPanelManagement\\TeamManagement.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:10:10.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeamDataManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\TeamDataManagement.cs",
+              "RelativeDocumentMoniker": "FA.UI\\Management\\TeamDataManagement.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FA\\FootbalAppMiniProject\\FA.UI\\Management\\TeamDataManagement.cs",
+              "RelativeToolTip": "FA.UI\\Management\\TeamDataManagement.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:15:33.527Z"
             }
           ]
         }

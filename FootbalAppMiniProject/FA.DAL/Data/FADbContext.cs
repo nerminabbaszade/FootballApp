@@ -15,7 +15,6 @@ namespace FA.DAL.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(PlayerConf).Assembly);
-            modelBuilder.ApplyConfigurationsFromAssembly(typeof(TeamConf).Assembly);
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

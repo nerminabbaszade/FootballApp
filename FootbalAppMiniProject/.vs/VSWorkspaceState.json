@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FA.DAL",
+    "\\FA.DAL\\Configurations",
+    "\\FA.DAL\\Repositories",
+    "\\FA.DAL\\Repositories\\Interfaces",
+    "\\FA.UI",
+    "\\FA.UI\\Management",
+    "\\FA.UI\\Management\\AdminPanelManagement"
+  ],
+  "SelectedNode": "\\FA.DAL\\Repositories\\GenericRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
